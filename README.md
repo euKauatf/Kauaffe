@@ -15,7 +15,7 @@
 > O **Kauaffè** é um projeto focado na construção de um sistema prático e moderno de autoatendimento de mesa. O grande diferencial deste projeto foi a aplicação profunda de **Context API** para gerenciamento de estado global (Carrinho e Autenticação) interligada com um Banco de Dados real e em nuvem (**Firebase**).
 
 <p align="center">
-  <img src="../CoffeeShop/app/public/main.png">
+  <img src="app/public/main.png">
 </p>
 
 ---
