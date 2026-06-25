@@ -96,8 +96,8 @@ export default function Home() {
                 mesa.
               </h1>
               <p className="text-lg text-stone-600 max-w-xl mx-auto md:mx-0">
-                Escaneie o QR Code, escolha seus cafés especiais e nós
-                preparamos tudo para você com grãos rigorosamente selecionados.
+                Esscolha seus cafés especiais e nós preparamos tudo para você
+                com grãos rigorosamente selecionados!
               </p>
             </div>
 
